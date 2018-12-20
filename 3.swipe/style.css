@@ -1,0 +1,127 @@
+/* container principale */
+.container-mobile {
+  width: 414px; /* taille en largeur de la page */ 
+  height: 100vh; /* hauteur de la page */
+  background-color: white; /* couleur de fond en blanc */
+  text-align: center; /* on aligne le contennu du div */ 
+  margin: auto; /* on aligne le div par apport a son parent */ 
+  /*min-height: 100vh;
+  padding: 0px 5px;*/
+}
+
+.fille{  
+	width: 200px;
+	height: 262px;
+
+
+}
+
+.folder{
+	width: 414px;
+	height: 55px;
+	margin-top:70px;
+	padding-right: 10px;
+}
+
+
+.flexbox {
+	display: flex;
+	text-align: center;
+	padding-bottom: 10px
+}
+
+#header_panel{ 
+	width: 100%;
+	height: 6%;
+	background-color: #FFECE8;
+}
+
+#body_panel{
+	width: 100%;
+	background-color: white;
+	margin-top: 30%;
+}
+
+#body_panel h1{
+	font-family: "Arima Madurai";
+	font-weight: black /* changement de la police par Gochi Hand */ 
+}
+
+#body_panel p{
+	font-family: "Rubik";
+	font-size: 14px;
+}
+
+#img_panel{
+	width: 100%;
+	/*height: 262px;*/
+}
+
+
+#img_panel_img{
+	width: 49%;
+	/*height: 100%;*/
+	display: inline; /* on affiche les divs sur la meme ligne */ 
+}
+
+.img_panel_row{
+	width: 24%;
+	/*height: 100%;*/
+	display: inline;
+}
+
+#header_menu{
+	float: left;
+	width: 47%;
+	height: 100%;
+	text-align: left;
+	padding-left: 13px; /* on pousse le logo sur la droite */ 
+	padding-top: 13px; /* on pousse le logo vers le bas */
+}
+#header_logo{
+	float: left; /* on aligne tous les divs sur la gauche */
+	width: 47.5%;
+	height: 100%;
+	text-align: left;
+}
+
+#header_logo img{
+	width: 30px;
+	height: 38px;
+	padding-top: 5px;
+}
+
+
+body {
+  margin: 0px;
+  background-color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

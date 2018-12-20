@@ -1,0 +1,67 @@
+.container-mobile {
+  width: 414px;
+  background-color: white;
+  text-align: center;
+  margin: auto;
+  min-height: 100vh;
+  padding: 0px 5px;
+}
+
+body {
+  margin: 0px;
+  background-color: black;
+}
+
+
+.pieuvre{
+	height: 38px;
+	width: 30px;
+	margin-top: 5px;
+	background-color: #FFECE8;
+}
+
+.nom{
+	font-family: arima madurai, bolder;
+
+}
+
+.sent{
+	background-color: #298FA5 ;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-left: 15px;
+	margin-left: 130px;
+	margin-right: 20px;
+	text-align: left;
+	font-family: 'Rubik', sans-serif;
+	color:white;
+	font-size: 12px;
+	border-radius: 15px;
+}
+
+.received{
+	background-color: #FBD9D1 ;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-left: 15px;
+	margin-right: 130px;
+	margin-left:20px;
+	margin-top: 20px;
+	text-align: left;
+	font-family: 'Rubik', sans-serif;
+	color:black;
+	font-size: 12px;
+	border-radius: 15px;
+}
+
+.pieuvre1{
+	background-color: #FFECE8;
+	margin-left: -5px;
+	margin-right: -5px;
+	padding-bottom: 5px;
+}
+
+.chat{
+	width: 410px;
+	padding-top: 210px;
+}

@@ -1,0 +1,60 @@
+.container-mobile {
+  width: 414px;
+  background-color: white;
+  text-align: center;
+  margin: auto;
+  min-height: 100vh;
+  padding: 0px 5px;
+}
+
+body {
+  margin: 0px;
+  background-color: black;
+}
+
+.pieuvre{
+	height: 38px;
+	width: 30px;
+	margin-top: 5px;
+	background-color: #FFECE8;
+}
+
+.pieuvre1{
+	background-color: #FFECE8;
+	margin-left: -5px;
+	margin-right: -5px;
+	padding-bottom: 5px;
+}
+
+.meuf{
+	width: 220px;
+	padding-top: 40px;
+}
+
+.emma{
+	font-size: 17px;
+	font-family: arima madurai ;
+	font:bolder;
+}
+
+.trois{
+	font-size: 13px;
+	font-family: rubik ;
+}
+
+.folder{
+	width:420px;
+	margin-left: -5px;
+	margin-right: -2px;
+	padding-top:70px;
+}
+
+.hobby{
+	width: 200px;
+	padding-top: 20px;
+}
+
+.map{
+	width: 200px;
+	padding-top: 25px
+}

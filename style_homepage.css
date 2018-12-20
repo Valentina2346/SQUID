@@ -1,0 +1,51 @@
+.container-mobile {
+  width: 414px;
+  background-color: white;
+  background-image: url(images/bateau.jpg);
+  background-position: center ;
+  background-size: cover;
+  text-align: center;
+  margin: auto;
+  min-height: 100vh;
+  padding: 0px 5px;
+  position: relative;
+}
+
+body {
+  margin: 0px;
+  background-color: black;
+
+}
+
+img {
+	margin: 30px ;
+	width: 120px ;
+	
+}
+
+.connect {
+  text-decoration: none;
+  color:white;
+  font-family: Croissant One ;
+}
+
+.description {
+	position: absolute; ;
+    bottom: 100px;
+    font-size: 12px ;
+    font-weight: lighter;
+    line-height: 20px ;
+    margin-left: 55px ;
+    margin-right:55px ;
+    font-family: rubik ;
+
+}
+
+.login {
+	font-family: arima madurai ;
+	color: white ;
+	position: absolute;
+	bottom: 50px ;
+	font-size: 19px ;
+	font-weight: bold ;
+	margin-left: 160px ;

@@ -1,0 +1,100 @@
+.container-mobile {
+  width: 414px;
+  background-image: url(images/garçon_formulaire.png);
+  background-color: white;
+  background-position: top;
+  background-size: cover;
+  text-align: center;
+  margin: auto;
+  min-height: 100vh;
+  padding: 5px 5px;
+  font-family: 'Rubik', sans-serif;
+ }
+
+body {
+  margin: 0px;
+  background-color: black;
+}
+
+.folder {
+	width:420px;
+	margin-top: 25px;
+	padding-right: 10px;
+}
+.text {
+	padding-top: 350px;
+	font-size: 14px;
+	margin-left: 30px;
+	margin-right: 30px;
+}
+
+.kate {
+	color:#298FA5;
+	font-weight: bold;
+}
+.age{
+	color:#298FA5;
+	font-weight: bold;
+}
+.enfant{
+	color:#298FA5;
+	font-weight: bold;
+}
+.lieu{
+	color:#298FA5;
+	font-weight: bold;
+}
+.numero{
+	color:#298FA5;
+	font-weight: bold;
+}
+.mail{
+	color:#298FA5;
+	font-weight: bold;
+}
+.prenom{
+	color:#298FA5;
+	font-weight: bold;
+}
+.ageenfant{
+	color:#298FA5;
+	font-weight: bold;
+}
+.peinture{
+	color: #298FA5
+	font-weight: bold;
+}
+.lego{
+	color: #298FA5;
+	font-weight: bold;
+}
+.chat{
+	color:#298FA5;
+	font-weight: bold;
+}
+.pirates{
+	color: #298FA5;
+	font-weight: bold;
+}
+.karate{
+	color:#298FA5;
+	font-weight: bold;
+}
+.jour{
+	color:#298FA5;
+	font-weight: bold;
+}
+
+.pirate{
+	width: 30px;
+	height:30px;
+}
+
+.icon{
+	width: 300px;
+	padding-top: 10px;
+}
+
+.recherche{
+	padding-top: 20px;
+}
